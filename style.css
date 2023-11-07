@@ -1,0 +1,158 @@
+.TitText {
+    color: wheat;
+  }
+
+
+  
+  .bb {
+    background-color: goldenrod;
+  }
+  
+  .son {
+    text-align: center;
+    width: 20.33%;
+  }
+  .navbar .navlist {
+    text-align: center;
+  }
+  
+  .navbar .nav-item {
+    display: inline-block;
+    width: 10%;
+    margin: 20px;
+    color: wheat; /* Set the text color for the list items */
+  }
+
+  .circular-container {
+    width: 200px; /* Set the width and height as needed to create a circle */
+    height: 200px;
+    border-radius: 50%; /* Create a circular container */
+    background-color: lightgray; /* Background color for the circular container */
+    text-align: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally within the flex container */
+    
+}
+
+.circular-container2 {
+    width: 45px; /* Set the width and height as needed to create a circle */
+    height: 45px;
+    border-radius: 50%; /* Create a circular container */
+    background-color: rgb(233, 227, 227); /* Background color for the circular container */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally within the flex container */
+    
+}
+.son {
+    text-align: center;
+    width: 10.33%;
+  }
+
+.son3 {
+    text-align: center;
+    width: 5.33%;
+  }
+
+
+  .div7 {
+    background-color: rgb(56, 52, 52);
+    background-image: url('imgs/map-image.png');
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: white;
+  }
+
+  .father{
+  }
+
+  .father3{
+}
+
+ .son{
+float:left;
+width : 30%;
+ }
+
+ .div3port{
+    width: 350px; /* Set the width as needed */
+    background-color: white;
+ }
+
+
+
+
+ .div3ll{
+    color: rgb(151, 146, 146);
+ }
+
+ .div4{
+    background-color: white;
+    text-align: center;
+ }
+
+ .div5{
+    background-color:rgb(241, 238, 238) ;
+    text-align: center;
+    color: black;
+ }
+  
+  
+  .div1 {
+    background-color: rgb(126, 86, 26);
+    background-image: url('imgs/header-bg.jpg');
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+  }
+  .div2{
+    background-color: white;
+    text-align: center;
+    color: black;
+  }
+  
+  .div3{
+    background-color:rgb(241, 238, 238) ;
+    text-align: center;
+    color: black;
+  }
+
+  .clrfix {
+    clear: both;
+  }
+  
+  .navbar {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  
+  .navlist {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .centered-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Center vertically within the viewport */
+  }
+  
+  .sentence-box {
+    background-color: goldenrod;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .sentence {
+    font-size: 24px; /* Adjust the font size as needed */
+    color: black; /* Set the text color */
+  }
+
+
+  
